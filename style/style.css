@@ -1,1 +1,39 @@
 /* body us */
+* {
+    margin: 0;
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+/* primary */
+.primary-btn{
+    padding: 10px;
+    font-size: 18px;
+    border: 0;
+    border-radius: 5px;
+    background: rgb(93, 190, 247);
+}
+
+
+/* Banner creation */
+.banner{
+    height: 100vh;
+    background-image: url('/images/banner/banner2.png');
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.banner-content{
+    width: 500px;
+    margin-right:10% ;
+    text-align: right;
+}
+.banner-content-title{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.banner-content-para{
+    margin-bottom: 20px;
+}
