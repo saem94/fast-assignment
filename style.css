@@ -86,3 +86,18 @@
 .plan-content-para{
     margin-bottom: 10px;
 }
+
+
+/* Wacth this */
+.wacth{
+    margin: 100px 200px 0 200px;
+    height: 300px;
+    background-image: url('/images/watch.png');
+    background-repeat: no-repeat;
+    padding: 100px 0 0 40px;
+
+}
+.wacth-title{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
