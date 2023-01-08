@@ -62,3 +62,27 @@
 .about-content-sub-para{
     margin-top: 10px;
 }
+
+
+/* Plan */
+.plan{
+    margin: 100px 200px 0 200px;
+    text-align: center;
+}
+.plan-title{
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+.plan-info{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.plan-content-title{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.plan-content-para{
+    margin-bottom: 10px;
+}
