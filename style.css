@@ -102,6 +102,23 @@
     margin-bottom: 20px;
 }
 
+/* Something new added */
+.photo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgb(215, 242, 255);
+    margin: 80px 100px 0 300px;
+}
+.photo-content{
+    margin: 0 150px 0 100px;
+}
+.photo-content-title{
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
 
 /* Footer */
 .footer{
